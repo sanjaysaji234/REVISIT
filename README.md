@@ -8,6 +8,14 @@ Revisit is a story-driven game that follows the journey of a person's life, seen
 
 Revisit is a **2D game** developed in **Unity**, with logic written in **C#** and graphics created using **Photopea**. The game starts with the protagonist lying on the ground, taking their last few breaths before transitioning into their past memories.
 
+## Links  
+🔗 [Install](https://drive.google.com/file/d/1aUIIgOrsw2phhyJCRGcav-XfLMURpC_X/view?usp=drive_link)
+🔗 [Stage Assets](https://drive.google.com/drive/folders/1PO9lORSP36aW1BKV0nAxQXjzf27piss-?usp=sharing)
+🔗 [Game Elements](https://drive.google.com/drive/folders/10Myv97h01sgbLcCuvExJVFbWS7musE-t?usp=drive_link)
+🔗 [Cut Scene](https://drive.google.com/drive/folders/1wLOUZewcTYncLSkB4Nmap8lN8DXixO46?usp=sharing)
+🔗 [cut scene assets](https://drive.google.com/drive/folders/1XxwytefwNwpSkVqIwaLEHyE-RbyaOctK?usp=sharing)
+
+
 ### **Stages of the Game**
 
 #### 🏡 **Stage 1 - Age 5**
