@@ -16,14 +16,14 @@ Revisit is a **2D game** developed in **Unity**, with logic written in **C#** an
 - The player must escape by hiding from them.
 - A surprise awaits at the end.
 
-#### 🏫 **Stage 2 - Age 13**
+#### 🏫 **Stage 2 - Age 12**
 
 - The protagonist is in a classroom being scolded by a teacher.
 - The player must run away from school, overcoming obstacles on the way.
 
 * The player goes through obstacles in the corridor.
 
-#### 🎶 **Stage 3 - Age 23**
+#### 🎶 **Stage 3 - Age 22**
 
 - A musical gameplay round.
 - After completing the challenge, the protagonist sits on a bench and meets someone important who brings happiness to their life.
@@ -33,7 +33,7 @@ Revisit is a **2D game** developed in **Unity**, with logic written in **C#** an
 - A cake-decorating gameplay session.
 - The protagonist celebrates their child’s 5th birthday with their family.
 
-#### 🏃 **Final Stage - Age 46**
+#### 🏃 **Final Stage - Age 49**
 
 - The protagonist is returning from a shop when two robbers start chasing them.
 - The player must navigate the chase sequence to discover the game’s ending.
